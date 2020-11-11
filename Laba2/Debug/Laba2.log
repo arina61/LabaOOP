@@ -1,0 +1,11 @@
+﻿  Ball.cpp
+  Body.cpp
+  Cone.cpp
+  IBodyParser.cpp
+  Interface.cpp
+  Laba2.cpp
+  Parallelepiped.cpp
+  Parser.cpp
+  Создание кода...
+C:\Users\anast\source\repos\Laba2\Laba2\IBodyParser.cpp(36): warning C4715: IBodyParser::Parse: значение возвращается не при всех путях выполнения
+  Laba2.vcxproj -> C:\Users\anast\source\repos\Laba2\Debug\Laba2.exe
